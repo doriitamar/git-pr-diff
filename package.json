@@ -1,0 +1,12 @@
+{
+  "name": "git-pr-diff-parser",
+  "version": "0.1.0",
+  "description": "Git pull request differ",
+  "main": "index.js",
+  "repository": "git@github.com:doriitamar/git-pr-diff.git",
+  "author": "Itamar <doriitamar@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+  }
+}
