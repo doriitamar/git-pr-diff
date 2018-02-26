@@ -15,5 +15,10 @@ require('git-pr-diff')(cwd: string, oldBranch: string, newBranch: string)
 * `oldBranch`: The branch to merge into
 * `newBranch`: The branch to merge from
 
+# Example
+```js
+const parsedDiff = require('git-pr-diff')('/Users/me/Projects/thisProj', 'origin/master', 'origin/another-branch');
+```
+
 
 
